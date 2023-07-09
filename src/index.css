@@ -1,0 +1,23 @@
+@import url("https://fonts.cdnfonts.com/css/mareka");
+@import url("https://fonts.cdnfonts.com/css/cantoraone");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  img:not(.no) {
+    @apply mx-auto !important;
+  }
+  #hero {
+    background: url(./assets/heroBg.png) center center;
+    background-size: cover;
+  }
+  #about {
+    background: url(./assets/aboutBg.png) center center no-repeat;
+    background-size: cover;
+  }
+  a:hover {
+    @apply scale-90;
+  }
+}
