@@ -12,20 +12,14 @@ const About = () => {
         <article className="w-full p-10 relative bg-white lg:w-9/12 rounded-[20px]">
           <img src={TokenImg} alt="" className="absolute top-0 -left-28" />
           <div className=" text-green-600 text-base font-normal leading-loose z-10">
-            American dollar is loosing its value. Crypto Era is becoming
-            mainstream and there’s very chance that world adopts Ethereum as the
-            global leading American dollar is loosing its value. Crypto Era is
-            becoming mainstream and there’s very chance that world adopts
-            Ethereum as the global leading <br />
-            American dollar is loosing its value. Crypto Era is becoming
-            mainstream and there’s very chance that world adopts Ethereum as the
-            global leading American dollar is loosing its value. Crypto Era is
-            becoming mainstream and there’s very chance that world adopts
-            Ethereum as the global leading
+            Get ready to hop into the hilarious world of "Japanese Pepe Coin:
+            The Ethereal Froggy Adventure"! <br />
+            his zany crypto project on the Ethereum blockchain introduces a
+            mischievous frog with a knack for pranks.
             <br />
-            <br /> world adopts Ethereum as the global leading American dollar
-            is loosing its value. Crypto Era is becoming mainstream and there’s
-            very chance that world adopts Ethereum as the global leading{" "}
+            <br /> From spontaneously changing appearances to surprising holders
+            with frog-themed emojis, Japanese Pepe keeps everyone laughing. Join
+            the global treasure hunt and embrace the ribbitting madness!
           </div>
         </article>
       </div>{" "}

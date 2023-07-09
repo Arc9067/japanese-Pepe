@@ -18,13 +18,16 @@ const Features = () => {
           <article className="bg-white p-10 shadow rounded-xl flex flex-col gap-5">
             <div className="flex w-full items-center capitalize gap-10 font-MAREKA text-4xl">
               <img src={Token1} alt="" className="no" />
-              <h1>zero tax</h1>
+              <h1>
+                <span className="font-sans">1%</span> tax
+              </h1>
             </div>
             <p className="text-green-600 font-sans">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-              maiores corporis, blanditiis aut soluta quia dolorem officia neque
-              molestias vitae quis assumenda ipsam illo amet aspernatur rem
-              magni provident! Veritatis!
+              The 1% tax on Japanese Pepe holders isn't a burden, but a
+              whimsical twist! Each transaction or trade triggers a magical
+              transformation, turning the tax into a virtual pond where Japanese
+              Pepe frolics with other crypto creatures, adding a touch of
+              hilarity to your crypto adventure!
             </p>
           </article>
           <article className="bg-white p-10 shadow rounded-xl flex flex-col gap-5">
@@ -35,10 +38,10 @@ const Features = () => {
               </h1>
             </div>
             <p className="text-green-600 font-sans">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-              maiores corporis, blanditiis aut soluta quia dolorem officia neque
-              molestias vitae quis assumenda ipsam illo amet aspernatur rem
-              magni provident! Veritatis!
+              The 2% max wallet in Japanese Pepe ensures fairness by limiting
+              any individual holder's accumulation to 2% of the total supply.
+              This promotes decentralization and fosters a more inclusive
+              community for all holders to enjoy the crypto adventures together.
             </p>
           </article>
         </div>

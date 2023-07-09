@@ -10,11 +10,11 @@ const Hero = () => {
             welcome to Japenese Pepe
           </h1>
           <p className="text-white text-base font-normal leading-loose">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit,
-            molestiae neque ipsam cumque nisi voluptatum sed tempore ea
-            voluptates dignissimos, dolorum omnis! Officia nobis nesciunt ab
-            impedit nostrum, ullam ea exercitationem animi blanditiis distinctio
-            obcaecati ipsa, laborum doloribus earum.
+            Introducing "Japanese Pepe Coin: The Ribbitting Crypto Comedy!"
+            Watch as this mischievous froggy takes over the Ethereum blockchain,
+            pulling pranks, donning kimono, and sending froggy emojis. With
+            global treasure hunts and endless laughter, it's a wild crypto
+            adventure you won't want to miss! Ribbit, ribbit!
           </p>
           <a
             href=""
